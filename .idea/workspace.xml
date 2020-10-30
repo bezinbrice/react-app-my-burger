@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae2ca6f-0cbd-4b99-8508-5def8e152e13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/store/sagas/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/http-error-handler.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Auth/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Auth/Logout/Logout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Auth/Logout/Logout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Checkout/Checkout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Checkout/ContactData/ContactData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Checkout/ContactData/ContactData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Orders/Orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Orders/Orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/asyncComponent/asyncComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers/burgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/burgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +107,7 @@
       <workItem from="1602839236864" duration="3585000" />
       <workItem from="1603181903554" duration="4130000" />
       <workItem from="1603195490121" duration="1561000" />
+      <workItem from="1603723918730" duration="14640000" />
     </task>
     <servers />
   </component>
@@ -101,13 +115,18 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2566" y="6" key="CommitChangelistDialog2" timestamp="1603979834172">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2566" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603979834172" />
     <state x="2713" y="226" key="FileChooserDialogImpl" timestamp="1602513812514">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2713" y="226" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602513812514" />
-    <state x="425" y="69" width="672" height="676" key="search.everywhere.popup" timestamp="1602860136944">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2451" y="87" width="840" height="854" key="search.everywhere.popup" timestamp="1603966586764">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="425" y="69" width="672" height="676" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602860136944" />
+    <state x="2451" y="87" width="840" height="854" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603966586764" />
   </component>
 </project>
